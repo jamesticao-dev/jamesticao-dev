@@ -14,8 +14,9 @@ Hi! I’m a BS Entertainment and Multimedia Computing student at Mapúa Universi
 ### 🛠️ Tools & Technologies
 - Unity
 - C#
+- HTML
+- Cascading Style Sheets (CSS)
 - Blender
-- Level Design
 - Git/GitHub
 
 ---
@@ -23,7 +24,7 @@ Hi! I’m a BS Entertainment and Multimedia Computing student at Mapúa Universi
 ### 📫 How to Reach Me
 - Email: jamesrain25@gmail.com
 - LinkedIn: https://www.linkedin.com/in/james-ticao-a1a600354/
-- Portfolio/Website: N/A
+- Portfolio/Website: https://github.com/jamesticao-dev
 
 <!--
 **jamesticao-dev/jamesticao-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
